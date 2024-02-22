@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\bin\Debug\net8.0-windows\VAlerian Sword - Internet Program Analysis.exe
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\bin\Debug\net8.0-windows\VAlerian Sword - Internet Program Analysis.deps.json
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\bin\Debug\net8.0-windows\VAlerian Sword - Internet Program Analysis.runtimeconfig.json
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\bin\Debug\net8.0-windows\VAlerian Sword - Internet Program Analysis.dll
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\bin\Debug\net8.0-windows\VAlerian Sword - Internet Program Analysis.pdb
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\obj\Debug\net8.0-windows\VAlerian_Sword___Internet_Program_Analysis.Form1.resources
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\obj\Debug\net8.0-windows\VAlerian Sword - Internet Program Analysis.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\obj\Debug\net8.0-windows\VAlerian Sword - Internet Program Analysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\obj\Debug\net8.0-windows\VAlerian Sword - Internet Program Analysis.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\obj\Debug\net8.0-windows\VAlerian Sword - Internet Program Analysis.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\obj\Debug\net8.0-windows\VAlerian Sword - Internet Program Analysis.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\obj\Debug\net8.0-windows\VAlerian Sword - Internet Program Analysis.dll
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\obj\Debug\net8.0-windows\refint\VAlerian Sword - Internet Program Analysis.dll
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\obj\Debug\net8.0-windows\VAlerian Sword - Internet Program Analysis.pdb
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\obj\Debug\net8.0-windows\VAlerian Sword - Internet Program Analysis.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\VAlerian Sword - Internet Program Analysis\VAlerian Sword - Internet Program Analysis\obj\Debug\net8.0-windows\ref\VAlerian Sword - Internet Program Analysis.dll
