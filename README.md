@@ -13,3 +13,7 @@ First, download https://github.com/WhiteFoxLinux/vAlerianSword-InternetProgramAn
 Then place these two exe files in C: \ (note that they can only be C: \).
 
 ![image](https://github.com/WhiteFoxLinux/vAlerianSword-InternetProgramAnalysis/blob/main/png/a.png)
+
+First, open `VAlerian Sword - Internet Program Analysis_vAlerian.exe`. You will see the interface,If you cannot open that program, you can compile it yourself, but you need to run it as an administrator.
+
+![image](https://github.com/WhiteFoxLinux/vAlerianSword-InternetProgramAnalysis/blob/main/png/b.png)
